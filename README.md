@@ -5,8 +5,3 @@ Universal is a clean and stylish website template built with [Bootstrap](https:/
 Blog: [https://devcows.github.io/hugo-universal-theme](https://devcows.github.io/hugo-universal-theme/)
 
 Sponsor this project:
-
-- [https://paypal.me/ryanfox1985](https://paypal.me/ryanfox1985)
-- [https://www.patreon.com/ryanfox1985](https://www.patreon.com/ryanfox1985)
-
-This Hugo theme was ported from

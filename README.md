@@ -1,4 +1,4 @@
-# Universal Theme for Hugo
+# Hi there, i am Leon Matota <span class="wave">👋</span>
 
 Universal is a clean and stylish website template built with [Bootstrap](https://getbootstrap.com/docs/3.4/getting-started/). It stands out with its clean design and elegant typography.
 
@@ -118,19 +118,6 @@ googleAnalytics = "UA-XXXXX-X"
 
 Leave the `googleAnalytics` key empty to disable it.
 
-### Logo
-
-A logo can be selected, two parameters `logo` and `logo_small` can be defined. By default `logo` is used for medium and big screens and the `logo_small` value will be used when the site is rendered on small screens. Also there is the possibility to disable the logo and render a alternative text.
-
-```toml
-[params]
-    disabled_logo = false
-    logo_text = "Universal"
-
-    logo = "img/logo.png"
-    logo_small = "img/logo-small.png"
-```
-
 ### Contact form
 
 You can optionally create a contact page and include a contact form.
@@ -143,4 +130,3 @@ title = "Contact"
 id = "contact"
 +++
 ```
-# codezilla91

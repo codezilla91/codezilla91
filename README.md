@@ -4,6 +4,8 @@ A seasoned Lead Senior Software Developer with a demonstrated history in the ban
 
 Blog: [https://leonmatota.com/]
 
+Business: [https://leodynamics.vercel.app/]
+
 ## Stack overflow
 
 <a href="https://stackoverflow.com/users/8646962/leon-matota"><img src="https://stackoverflow.com/users/flair/8646962.png" width="208" height="58" alt="profile for Leon Matota at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Leon Matota at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>

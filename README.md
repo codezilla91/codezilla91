@@ -127,23 +127,21 @@
 
 ## 📈 Skills
 
-<div align="center">
-
-![](https://img.shields.io/badge/HTML5%20%2F%20CSS3%20%2F%20SASS-92%25-7C3AED?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-90%25-7C3AED?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/Cyber%20Security-87%25-7C3AED?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/Angular-85%25-7C3AED?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/Node.js-85%25-7C3AED?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/Git%20%2F%20Version%20Control-85%25-7C3AED?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/PostgreSQL-80%25-2563EB?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/Python-78%25-2563EB?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/TensorFlow%20%2F%20Machine%20Learning-73%25-2563EB?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/React%20Native%20%2F%20Mobile-70%25-2563EB?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/AI%20%2F%20RAG%20%2F%20LLMs-68%25-4f46e5?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/PHP%20%2F%20C%23-65%25-4f46e5?style=for-the-badge&labelColor=1e293b)
-![](https://img.shields.io/badge/AWS%20%2F%20DevOps%20%2F%20CI--CD-63%25-4f46e5?style=for-the-badge&labelColor=1e293b)
-
-</div>
+```text
+HTML5 / CSS3 / SASS        ██████████████████░░   92%
+JavaScript / TypeScript    ██████████████████░░   90%
+Cyber Security             █████████████████░░░   87%
+Angular                    █████████████████░░░   85%
+Node.js                    █████████████████░░░   85%
+Git / Version Control      █████████████████░░░   85%
+PostgreSQL                 ████████████████░░░░   80%
+Python                     ███████████████░░░░░   78%
+TensorFlow / ML            ██████████████░░░░░░   73%
+React Native / Mobile      ██████████████░░░░░░   70%
+AI / RAG / LLMs            █████████████░░░░░░░   65%
+PHP / C#                   ████████████░░░░░░░░   60%
+AWS / DevOps / CI-CD       ████████████░░░░░░░░   60%
+```
 
 <br/>
 

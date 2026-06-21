@@ -110,6 +110,13 @@
     <td align="center"><img height="40" alt="Power BI" src="https://api.iconify.design/logos:microsoft-power-bi.svg" /></td>
     <td></td><td></td>
   </tr>
+  <tr>
+    <td align="right"><b>AI &amp; Data</b></td>
+    <td align="center"><img height="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></td>
+    <td align="center"><img height="40" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /></td>
+    <td align="center"><img height="40" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /></td>
+    <td></td><td></td><td></td><td></td>
+  </tr>
 </table>
 
 <br/>
@@ -120,18 +127,23 @@
 
 ## 📈 Skills
 
-```text
-HTML5 / CSS3 / SASS        ██████████████████░░   92%
-JavaScript / TypeScript    ██████████████████░░   90%
-Cyber Security             █████████████████░░░   87%
-Angular                    █████████████████░░░   85%
-Node.js                    █████████████████░░░   85%
-Git / Version Control      █████████████████░░░   85%
-PostgreSQL                 ████████████████░░░░   80%
-React Native / Mobile      ██████████████░░░░░░   70%
-Python / PHP / C#          █████████████░░░░░░░   65%
-AWS / DevOps / CI-CD       █████████████░░░░░░░   63%
-```
+<div align="center">
+
+![](https://img.shields.io/badge/HTML5%20%2F%20CSS3%20%2F%20SASS-92%25-7C3AED?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-90%25-7C3AED?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/Cyber%20Security-87%25-7C3AED?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/Angular-85%25-7C3AED?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/Node.js-85%25-7C3AED?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/Git%20%2F%20Version%20Control-85%25-7C3AED?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/PostgreSQL-80%25-2563EB?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/Python-78%25-2563EB?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/TensorFlow%20%2F%20Machine%20Learning-73%25-2563EB?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/React%20Native%20%2F%20Mobile-70%25-2563EB?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/AI%20%2F%20RAG%20%2F%20LLMs-68%25-4f46e5?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/PHP%20%2F%20C%23-65%25-4f46e5?style=for-the-badge&labelColor=1e293b)
+![](https://img.shields.io/badge/AWS%20%2F%20DevOps%20%2F%20CI--CD-63%25-4f46e5?style=for-the-badge&labelColor=1e293b)
+
+</div>
 
 <br/>
 

@@ -3,29 +3,26 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://leonmatota.com">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=190&section=header&text=Hi,%20I'm%20Leon%20Matota&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20building%20user-centric%20digital%20solutions&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Hi, I'm Leon Matota" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=190&section=header&text=Hi,%20I'm%20Leon%20Matota&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Lead%20Senior%20Software%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Hi, I'm Leon Matota — Lead Senior Software Developer" />
 </a>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=900&color=2563EB&center=true&vCenter=true&width=640&lines=Full-stack+developer;Building+user-centric+digital+solutions;Banking-grade+systems+%26+clean+architecture;From+Windhoek%2C+Namibia+%F0%9F%87%B3%F0%9F%87%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=900&color=2563EB&center=true&vCenter=true&width=620&lines=Welcome+to+my+corner+of+GitHub+%F0%9F%91%8B;Crafting+clean,+scalable+software;Always+learning,+always+shipping" alt="Typing SVG" />
 
 <br/>
 
 [![View My Work](https://img.shields.io/badge/View%20My%20Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://leonmatota.com/portfolio)
-[![More About Me](https://img.shields.io/badge/More%20About%20Me-7C3AED?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://leonmatota.com/about)
+[![Read the Blog](https://img.shields.io/badge/Read%20the%20Blog-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white)](https://leonmatota.com/blog)
 [![Download CV](https://img.shields.io/badge/Download%20CV-2563EB?style=for-the-badge&logo=readdotcv&logoColor=white)](https://leonmatota.com/files/leon-matota-cv.pdf)
 
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://leonmatota.com)
-[![Blog](https://img.shields.io/badge/Blog-7C3AED?style=flat-square&logo=hashnode&logoColor=white)](https://leonmatota.com/blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/leon-matota-1666479a)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-7C3AED?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8646962/leon-matota)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/leon-matota-1666479a)
 [![Email](https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@leonmatota.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=codezilla91&style=flat-square&color=2563EB&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/codezilla91?style=flat-square&color=7C3AED&label=FOLLOWERS)](https://github.com/codezilla91)
+[![LeoDynamics](https://img.shields.io/badge/LeoDynamics-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://leodynamics.vercel.app)
+[![Followers](https://img.shields.io/github/followers/codezilla91?style=flat-square&color=2563EB&label=Followers)](https://github.com/codezilla91)
 
 </div>
 
@@ -35,15 +32,12 @@
 
 ## 👋 About Me
 
-> I'm a **full-stack developer** passionate about building user-centric digital solutions.
-> I share my coding journey — documenting both the challenges I face and the solutions I discover —
-> with easy-to-understand insights and glimpses into the projects I've worked on.
+> I'm a **full-stack developer** passionate about building user-centric digital solutions — here I share
+> my coding journey, documenting both the challenges I face and the solutions I discover.
 
-- 🏦  **Lead Senior Software Developer** with a history in the **banking & FinTech** industry
-- 🧩  I build **full-stack web**, **cross-platform mobile**, and **Power BI** solutions
-- 🎓  BSc & Honours in Informatics (**NUST**) · pursuing my **Master's in Informatics**
+- 🏦  History in the **banking & FinTech** industry — ATM support, queue management & SMS gateway systems
+- 🎓  BSc & Honours in Informatics (**NUST**) · currently pursuing my **Master's in Informatics**
 - 🏢  Founder at **LeoDynamics Group (PTY) LTD** · based in **Windhoek, Namibia** 🇳🇦
-- ✍️  I write about full-stack development & system design on my [blog](https://leonmatota.com/blog)
 
 <br/>
 
@@ -65,31 +59,62 @@
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║              TECH STACK — colorful rounded tiles             ║ -->
+<!-- ║            TECH STACK — clean flat Devicon/Iconify logos     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🛠️ Tech Stack
 
-<table align="center">
+<table>
   <tr>
-    <td align="right" width="130"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,html,css,php,cs,dart" alt="Languages" /></td>
+    <td align="right" width="140"><b>Languages</b></td>
+    <td>
+      <img height="42" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=angular,nextjs,react,tailwind,bootstrap,rxjs" alt="Frontend" /></td>
+    <td>
+      <img height="42" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="RxJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Backend &amp; Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nginx,flutter" alt="Backend and Mobile" /></td>
+    <td>
+      <img height="42" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sequelize" alt="Databases" /></td>
+    <td>
+      <img height="42" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Cloud &amp; Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,vercel,docker,git" alt="Cloud and Tools" /></td>
+    <td>
+      <img height="42" alt="AWS" src="https://api.iconify.design/logos:aws.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
+      <img height="42" alt="Power BI" src="https://api.iconify.design/logos:microsoft-power-bi.svg" />
+    </td>
   </tr>
 </table>
 
@@ -137,57 +162,18 @@ AWS / DevOps / CI-CD       █████████████░░░░�
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codezilla91&bg_color=ffffff&color=555555&line=2563EB&point=7C3AED&area=true&area_color=2563EB&title_color=7C3AED&hide_border=true" alt="Activity Graph" width="100%" />
-
-<br/>
-
-<!-- Contribution snake — auto-generated by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codezilla91/codezilla91/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codezilla91/codezilla91/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/codezilla91/codezilla91/output/github-snake.svg" width="100%" />
-</picture>
+<!-- 3D isometric contribution calendar — auto-generated by .github/workflows/profile-3d.yml -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
 
 </div>
 
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       LET'S CONNECT                          ║ -->
+<!-- ║                    STACK OVERFLOW (verified)                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 📬 Let's Connect
-
-<table align="center">
-  <tr>
-    <td align="center">🌐</td>
-    <td><b>Portfolio</b></td>
-    <td><a href="https://leonmatota.com/portfolio">leonmatota.com/portfolio</a></td>
-    <td align="center">📝</td>
-    <td><b>Blog</b></td>
-    <td><a href="https://leonmatota.com/blog">leonmatota.com/blog</a></td>
-  </tr>
-  <tr>
-    <td align="center">📄</td>
-    <td><b>CV</b></td>
-    <td><a href="https://leonmatota.com/files/leon-matota-cv.pdf">Download CV</a></td>
-    <td align="center">💌</td>
-    <td><b>Email</b></td>
-    <td><a href="mailto:hello@leonmatota.com">hello@leonmatota.com</a></td>
-  </tr>
-  <tr>
-    <td align="center">💼</td>
-    <td><b>Business</b></td>
-    <td><a href="https://leodynamics.vercel.app">leodynamics.vercel.app</a></td>
-    <td align="center">💬</td>
-    <td><b>Stack Overflow</b></td>
-    <td><a href="https://stackoverflow.com/users/8646962/leon-matota">Leon Matota</a></td>
-  </tr>
-</table>
-
 <div align="center">
-
-<br/>
 
 <a href="https://stackoverflow.com/users/8646962/leon-matota">
   <img src="https://stackoverflow.com/users/flair/8646962.png" width="208" height="58" alt="Stack Overflow profile for Leon Matota" />
@@ -199,4 +185,4 @@ AWS / DevOps / CI-CD       █████████████░░░░�
 <!-- ║                          FOOTER                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=120&section=footer&text=By%20Leon%20Matota&fontSize=16&fontColor=ffffff&fontAlignY=80" width="100%" alt="By Leon Matota" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=120&section=footer" width="100%" alt="footer" />

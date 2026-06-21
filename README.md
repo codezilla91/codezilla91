@@ -18,11 +18,10 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://leonmatota.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/leon-matota-1666479a)
-[![Email](https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@leonmatota.com)
-[![LeoDynamics](https://img.shields.io/badge/LeoDynamics-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://leodynamics.vercel.app)
-[![Followers](https://img.shields.io/github/followers/codezilla91?style=flat-square&color=2563EB&label=Followers)](https://github.com/codezilla91)
+[![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leonmatota.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leon-matota-1666479a)
+[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@leonmatota.com)
+[![LeoDynamics](https://img.shields.io/badge/LeoDynamics-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://leodynamics.vercel.app)
 
 </div>
 

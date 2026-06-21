@@ -20,10 +20,18 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=#7C3AED&color_dots=#ebedf0,#dbeafe,#93c5fd,#3b82f6,#1d4ed8
             dist/github-contribution-grid-snake-dark.svg?color_snake=#2563EB&color_dots=#161b22,#1e3a5f,#1e40af,#2563eb,#7c3aed
 
-      - name: Slow animation 3× and smooth easing
+      - name: Slow animation uniformly (1.5×) for a calmer glide
         run: |
           python3 - <<'EOF'
           import re
+
+          FACTOR = 1.5  # snk default master cycle is ~70.7s; 1.5× → ~106s
+          NUM = r'(\d+(?:\.\d+)?)'
+
+          # Scale EVERY time value (ms first, then s) by FACTOR so the master
+          # animation duration and all per-cell delays stay perfectly in sync.
+          def scale_ms(m): return f"{float(m.group(1)) * FACTOR:.0f}ms"
+          def scale_s(m):  return f"{float(m.group(1)) * FACTOR:.3f}s"
 
           for path in [
             "dist/github-contribution-grid-snake.svg",
@@ -31,15 +39,10 @@ jobs:
           ]:
             try:
               txt = open(path).read()
-              # Stretch every animation-duration to 3× its generated value
-              txt = re.sub(
-                r'animation-duration:([0-9.]+)s',
-                lambda m: f'animation-duration:{float(m.group(1)) * 3:.2f}s',
-                txt
-              )
-              # Replace choppy steps() timing with linear for a glide effect
-              txt = txt.replace('animation-timing-function:steps(1)', 'animation-timing-function:linear')
+              txt = re.sub(NUM + r'ms', scale_ms, txt)   # ms first
+              txt = re.sub(NUM + r's\b', scale_s, txt)   # then bare s (won't touch ms)
               open(path, "w").write(txt)
+              print(f"scaled {path}")
             except Exception as e:
               print(f"skip {path}: {e}")
           EOF

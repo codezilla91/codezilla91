@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=7C3AED&color_dots[0]=ebedf0&color_dots[1]=dbeafe&color_dots[2]=93c5fd&color_dots[3]=3b82f6&color_dots[4]=1d4ed8
-            dist/github-contribution-grid-snake-dark.svg?color_snake=2563EB&color_dots[0]=161b22&color_dots[1]=1e3a5f&color_dots[2]=1e40af&color_dots[3]=2563EB&color_dots[4]=7C3AED
+            dist/github-contribution-grid-snake.svg?color_snake=#7C3AED&color_dots=#ebedf0,#dbeafe,#93c5fd,#3b82f6,#1d4ed8
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#2563EB&color_dots=#161b22,#1e3a5f,#1e40af,#2563eb,#7c3aed
 
       - name: Slow animation 3× and smooth easing
         run: |

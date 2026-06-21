@@ -53,12 +53,12 @@
 
 ## 💼 What I Do
 
-<table width="100%">
+<table style="width:100%;table-layout:fixed;">
   <tr>
-    <td align="center" width="25%">🎨<br/><b>UI/UX Design</b><br/><sub>Creating intuitive and<br/>user-friendly interfaces</sub></td>
-    <td align="center" width="25%">🌐<br/><b>Web Development</b><br/><sub>Building responsive and<br/>modern web applications</sub></td>
-    <td align="center" width="25%">⚙️<br/><b>Software Engineering</b><br/><sub>Developing scalable<br/>software solutions</sub></td>
-    <td align="center" width="25%">📱<br/><b>Mobile Applications</b><br/><sub>Creating cross-platform<br/>mobile experiences</sub></td>
+    <td align="center" style="width:25%;padding:16px 8px;">🎨<br/><b>UI/UX Design</b><br/><sub>Creating intuitive and<br/>user-friendly interfaces</sub></td>
+    <td align="center" style="width:25%;padding:16px 8px;">🌐<br/><b>Web Development</b><br/><sub>Building responsive and<br/>modern web applications</sub></td>
+    <td align="center" style="width:25%;padding:16px 8px;">⚙️<br/><b>Software Engineering</b><br/><sub>Developing scalable<br/>software solutions</sub></td>
+    <td align="center" style="width:25%;padding:16px 8px;">📱<br/><b>Mobile Applications</b><br/><sub>Creating cross-platform<br/>mobile experiences</sub></td>
   </tr>
 </table>
 

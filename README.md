@@ -127,7 +127,7 @@
 
 ## 📈 Skills
 
-<img src="./skills.svg" width="100%" alt="Skills" />
+<img src="./skills.svg" width="660" alt="Skills" />
 
 <br/>
 

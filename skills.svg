@@ -1,0 +1,89 @@
+<svg width="660" height="468" viewBox="0 0 660 468" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="660" height="468" rx="6" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- HTML5 / CSS3 / SASS  92% -->
+  <text x="20" y="42" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">HTML5 / CSS3 / SASS</text>
+  <rect x="250" y="30" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="30" width="322" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="42" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">92%</text>
+
+  <!-- JavaScript / TypeScript  90% -->
+  <text x="20" y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">JavaScript / TypeScript</text>
+  <rect x="250" y="64" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="64" width="315" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">90%</text>
+
+  <!-- Cyber Security  87% -->
+  <text x="20" y="110" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">Cyber Security</text>
+  <rect x="250" y="98" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="98" width="305" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="110" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">87%</text>
+
+  <!-- Angular  85% -->
+  <text x="20" y="144" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">Angular</text>
+  <rect x="250" y="132" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="132" width="298" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="144" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">85%</text>
+
+  <!-- Node.js  85% -->
+  <text x="20" y="178" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">Node.js</text>
+  <rect x="250" y="166" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="166" width="298" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="178" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">85%</text>
+
+  <!-- Git / Version Control  85% -->
+  <text x="20" y="212" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">Git / Version Control</text>
+  <rect x="250" y="200" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="200" width="298" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="212" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">85%</text>
+
+  <!-- PostgreSQL  80% -->
+  <text x="20" y="246" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">PostgreSQL</text>
+  <rect x="250" y="234" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="234" width="280" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="246" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">80%</text>
+
+  <!-- Python  78% -->
+  <text x="20" y="280" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">Python</text>
+  <rect x="250" y="268" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="268" width="273" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="280" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">78%</text>
+
+  <!-- TensorFlow / ML  73% -->
+  <text x="20" y="314" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">TensorFlow / ML</text>
+  <rect x="250" y="302" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="302" width="256" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="314" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">73%</text>
+
+  <!-- React Native / Mobile  70% -->
+  <text x="20" y="348" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">React Native / Mobile</text>
+  <rect x="250" y="336" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="336" width="245" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="348" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">70%</text>
+
+  <!-- AI / RAG / LLMs  65% -->
+  <text x="20" y="382" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">AI / RAG / LLMs</text>
+  <rect x="250" y="370" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="370" width="228" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="382" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">65%</text>
+
+  <!-- PHP / C#  60% -->
+  <text x="20" y="416" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">PHP / C#</text>
+  <rect x="250" y="404" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="404" width="210" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="416" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">60%</text>
+
+  <!-- AWS / DevOps / CI-CD  60% -->
+  <text x="20" y="450" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#24292e">AWS / DevOps / CI-CD</text>
+  <rect x="250" y="438" width="350" height="14" rx="3" fill="#d0d7de"/>
+  <rect x="250" y="438" width="210" height="14" rx="3" fill="url(#g)"/>
+  <text x="614" y="450" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#7C3AED" text-anchor="end">60%</text>
+
+</svg>

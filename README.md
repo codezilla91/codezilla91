@@ -127,21 +127,7 @@
 
 ## 📈 Skills
 
-```text
-HTML5 / CSS3 / SASS        ██████████████████░░   92%
-JavaScript / TypeScript    ██████████████████░░   90%
-Cyber Security             █████████████████░░░   87%
-Angular                    █████████████████░░░   85%
-Node.js                    █████████████████░░░   85%
-Git / Version Control      █████████████████░░░   85%
-PostgreSQL                 ████████████████░░░░   80%
-Python                     ███████████████░░░░░   78%
-TensorFlow / ML            ██████████████░░░░░░   73%
-React Native / Mobile      ██████████████░░░░░░   70%
-AI / RAG / LLMs            █████████████░░░░░░░   65%
-PHP / C#                   ████████████░░░░░░░░   60%
-AWS / DevOps / CI-CD       ████████████░░░░░░░░   60%
-```
+<img src="./skills.svg" width="100%" alt="Skills" />
 
 <br/>
 

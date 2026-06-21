@@ -8,8 +8,6 @@
 
 <div align="center">
 
-[![Available for new opportunities](https://img.shields.io/badge/●%20Available%20for%20new%20opportunities-2563EB?style=for-the-badge&labelColor=2563EB)](mailto:hello@leonmatota.com)
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=900&color=2563EB&center=true&vCenter=true&width=640&lines=Full-stack+developer;Building+user-centric+digital+solutions;Banking-grade+systems+%26+clean+architecture;From+Windhoek%2C+Namibia+%F0%9F%87%B3%F0%9F%87%A6" alt="Typing SVG" />
 
 <br/>
@@ -55,7 +53,7 @@
 
 ## 💼 What I Do
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <td align="center" width="25%">🎨<br/><b>UI/UX Design</b><br/><sub>Creating intuitive and<br/>user-friendly interfaces</sub></td>
     <td align="center" width="25%">🌐<br/><b>Web Development</b><br/><sub>Building responsive and<br/>modern web applications</sub></td>

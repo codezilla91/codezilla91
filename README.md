@@ -138,7 +138,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codezilla91&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=7C3AED&icon_color=2563EB&text_color=555555" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codezilla91&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=7C3AED&icon_color=2563EB&text_color=555555" alt="GitHub Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codezilla91&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=7C3AED&text_color=555555" alt="Top Languages" />
 
 <br/>
